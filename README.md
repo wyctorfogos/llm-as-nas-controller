@@ -126,3 +126,9 @@ python3 ./src/scripts/benchmark/nas/train_pad_20_optimized_model.py
 ## Resultados
 
 Os resultados são gravados em `RESULTS_FOLDER_PATH/<HISTORY_MODE>/<thinking>/controller-<llm>/<dataset>/...`, incluindo histórico da busca (JSON/CSV), melhor configuração encontrada e métricas por passo. Os experimentos também são rastreados no MLflow (`mlflow ui` para visualizar), com parâmetros como `search_space`, `history_mode` e `final_best_reward`.
+
+# Citação
+
+Este trabalho é faz parte de um artigo de nome "LLM-Driven Neural Architecture Search for Multimodal Skin Lesion Classification under Deployment Constraints" atualmente submetido para conferência.
+
+Caso use o código em questão, fazer a devida citação do trabalho/artigo.
