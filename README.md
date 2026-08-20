@@ -129,6 +129,21 @@ Os resultados são gravados em `RESULTS_FOLDER_PATH/<HISTORY_MODE>/<thinking>/co
 
 # Citação
 
-Este trabalho é faz parte de um artigo de nome "LLM-Driven Neural Architecture Search for Multimodal Skin Lesion Classification under Deployment Constraints" atualmente submetido para conferência.
+Este trabalho faz parte de um artigo de nome "LLM-Driven Neural Architecture Search for Multimodal Skin Lesion Classification under Deployment Constraints" atualmente submetido a uma conferência.
 
-Caso use o código em questão, fazer a devida citação do trabalho/artigo.
+Caso use o código em questão, faça a devida citação do trabalho/artigo.
+
+@inproceedings{rocha2026llmnas,
+  author    = {Rocha, Wyctor Fogos da and 
+               Bouzon, Pedro H. G. and
+               Pacheco, Andr{\'e} G. C. and
+               Souza~J{\'u}nior, Luis Ant{\^o}nio de},
+  title     = {{LLM-Driven Neural Architecture Search for Multimodal
+               Skin Lesion Classification under Deployment Constraints}},
+  booktitle = {2026 39th SIBGRAPI Conference on Graphics, Patterns and
+               Images (SIBGRAPI)},
+  year      = {2026},
+  publisher = {IEEE},
+  address   = {Salvador, Brazil},
+  note      = {In press},
+}
